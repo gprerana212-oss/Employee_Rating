@@ -22,7 +22,7 @@ def main():
         s2 = int(sys.argv[5])
         s3 = int(sys.argv[6])
     else:
-        name = "Anjum"
+        name = "Prerana"
         department = "IT"
         experience = "3"
         s1, s2, s3 = 85, 90, 80
